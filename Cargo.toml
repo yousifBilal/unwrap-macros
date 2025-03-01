@@ -4,4 +4,6 @@ version = "0.1.0"
 edition = "2021"
 license = "MIT"
 description = "Convenience macro for unwrapping result and option"
+repository = "https://github.com/yousifBilal/unwrap-macros.git"
+
 [dependencies]
